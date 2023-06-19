@@ -1,1 +1,0 @@
-# kazakaltcraft.github.io
