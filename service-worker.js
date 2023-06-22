@@ -1,1 +1,0 @@
-importScripts('https://pxl.nikita-kazak.dev.altkraft.com/service-worker.js?id=MXwxNA..');
